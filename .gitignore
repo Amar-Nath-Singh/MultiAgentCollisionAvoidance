@@ -1,0 +1,11 @@
+__pycache__/
+.vscode/
+EP_data/
+good_data/
+good_data_1/
+good_data_2/
+OMAE_DATA/
+plots.py/
+saved_npy/
+Screencasts/
+best_data
